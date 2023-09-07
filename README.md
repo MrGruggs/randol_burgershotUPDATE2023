@@ -28,6 +28,8 @@ TO DO
 
 What else you need to do in this script is to make a wardrobe for your employees to get dressed for work.
 Need to change the car which spawns from the NPC outside.
+Make a prompt from cashreg to player with [Yes] or [No] in order to accept the receipt amount. // For now it is set to that player pays automatically when charged.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------    CAREFULLY FOLLOW THE VIDEO AND THIS READ-ME !!!!
 
