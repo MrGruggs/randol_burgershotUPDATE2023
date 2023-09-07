@@ -31,6 +31,13 @@ Need to change the car which spawns from the NPC outside.
 Make a prompt from cashreg to player with [Yes] or [No] in order to accept the receipt amount. // For now it is set to that player pays automatically when charged.
 
 
+
+##misc:
+- Use playersetjob burgershot [1-4] in order to access the work station. EXAMPLE : /playersetjob <YOURID> <JOBID> <RANK>  --- Rank4 = Owner
+- If looking for Job Management menu, it is situated on the wall with the electric box just at the rear entrance of Burgershot MLo.
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------    CAREFULLY FOLLOW THE VIDEO AND THIS READ-ME !!!!
 
 
