@@ -37,6 +37,9 @@ Make a prompt from cashreg to player with [Yes] or [No] in order to accept the r
 - If looking for Job Management menu, it is situated on the wall with the electric box just at the rear entrance of Burgershot MLo.
 
 
+If stuck and crying about it, contact me @ https://discord.gg/uYdxH6VFT   :)
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------    CAREFULLY FOLLOW THE VIDEO AND THIS READ-ME !!!!
 
