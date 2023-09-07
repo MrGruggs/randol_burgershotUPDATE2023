@@ -32,6 +32,14 @@ Need to change the car which spawns from the NPC outside.
 -----------------------------------------------------------------------------------------------------------------------------------------------------    CAREFULLY FOLLOW THE VIDEO AND THIS READ-ME !!!!
 
 
+
+
+
+
+
+
+
+
 ## Add to your qb-core/shared/items.lua (Credit to https://github.com/Zach488/qb-burgershot for saving me the stress of making my own.)
 
 ```
